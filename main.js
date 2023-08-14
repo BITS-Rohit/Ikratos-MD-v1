@@ -1,9 +1,4 @@
-/* If You Copy, Don`t Delete This Credit!!!  
-   Don`t Sell This Script Or I Take Immediately  
-   Yang Jual Script Ini Report/Hangusin Aja Akunnya Atau Pukulin ae orangnya 
-   Fix Doesn't Show QrCode & Multi Auth State 
-   Regards from YanXiao ♡ 
- */ 
+
  process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0'; 
  import './config.js' 
   
@@ -219,12 +214,12 @@
    conn.bye = '❖━━━━━━[ ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\nGoodBye  @user 👋😃\n\nSomeone Just Left The Room @subject' 
    conn.spromote = '@user congratulations you are now an admin!' 
    conn.sdemote = '@user You are no longer an admin!' 
-   conn.sDesc = 'Description bdl di gai hy, new description: \n@desc' 
+   conn.sDesc = 'Purani Description kr lawde lag gye h ye lo  new description: \n@desc' 
    conn.sSubject = 'Group name has been changed, new name: \n@subject' 
    conn.sIcon = 'Icon updated!' 
    conn.sRevoke = 'Link group updated, new link \n@revoke' 
-   conn.sAnnounceOn = 'Group telah di tutup!\nsekarang hanya admin yang dapat mengirim pesan.' 
-   conn.sAnnounceOff = 'Group telah di buka!\nsekarang semua peserta dapat mengirim pesan.' 
+   conn.sAnnounceOn = 'Group announce on.' 
+   conn.sAnnounceOff = 'Group announce off.' 
    conn.sRestrictOn = 'Edit Info Group changed  to only admin!' 
    conn.sRestrictOff = 'Edit Info Group is changed to all participants!' 
   
