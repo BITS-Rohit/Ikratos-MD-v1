@@ -1,7 +1,7 @@
 {
-    "name": "Ikratos-MD-v1",
+    "name": "RIAS MD WITH ❤️❤️",
     "version": "1.7.0",
-    "description": "Ikratos-MD-v1, Simple lightweight Multi-Device Bot.✨🌿",
+    "description": "RIAS MD  by [ロヒット] ->|Röhît SÃÑ|.✨🌿",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
+    "homepage": "https://github.com/BITS-Rohit/Ikratos-MD-v1",
     "author": {
         "name": "xIKRATOSx"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xIKRATOSx/Ikratos-MD-v1.git"
+        "url": "git+https://github.com/BITS-Rohit/Ikratos-MD-v1.git"
     },
     "bugs": {
-        "url": "https://github.com/xIKRATOSx/Ikratos-MD-v1/issues"
+        "url": "https://github.com/BITS-Rohit/Ikratos-MD-v1"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
